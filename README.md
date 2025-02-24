@@ -1,0 +1,1 @@
+# lotcode-check
